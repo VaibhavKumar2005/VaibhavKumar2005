@@ -1,22 +1,21 @@
 name: GitHub Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs daily
-  workflow_dispatch: # Allows you to run it manually to test
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
-          # This MUST match the name in your Repo Secrets
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Your details
           user: VaibhavKumar2005
           template: classic
           base: header, activity, community, repositories, metadata
-          
-          # Configuration (Using valid inputs from your error log)
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
