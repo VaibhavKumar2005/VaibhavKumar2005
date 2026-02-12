@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<h3>🚀 Building verifiable RAG systems & Orchestrating Kubernetes Clusters</h3>
+<h3>🚀 Building Verifiable RAG Systems & Orchestrating Cloud-Native Infrastructure</h3>
 
 <br>
 
@@ -17,9 +17,6 @@
   </a>
   <a href="mailto:vaibhavkrsharma0412@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8E54E9" alt="Email Contact"/>
-  </a>
-  <a href="https://github.com/VaibhavKumar2005/LeetcodeProblemSoList">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&color=00D9FF" alt="LeetCode Solutions"/>
   </a>
   <a href="https://github.com/VaibhavKumar2005">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=39FF14" alt="GitHub Profile"/>
@@ -31,146 +28,119 @@
 
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
-<br>
-
-<div align="center">
+---
 
 ## 🛠️ The Technical Arsenal
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,linux,githubactions,python,django,flask,react,postgres,git,bash,vscode,mongodb,rust&perline=14&theme=dark" />
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,linux,githubactions,python,django,flask,react,postgres,git,bash,vscode&perline=14&theme=dark" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
-<br>
-
-<div align="center">
+---
 
 ## 🚀 Engineering Showcase
-
-</div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 [Azure Cloud Native RAG](https://github.com/VaibhavKumar2005/azure-cloud-native-rag)
-
-**Tech:** `Azure` • `Python` • `RAG`
-
-> **Applied AI Architecture.** Implementation of Retrieval-Augmented Generation on Azure cloud infrastructure, focusing on scalable AI deployment.
+### 🔷 [Cloud-Native AI Library](https://github.com/VaibhavKumar2005)
+**Tech:** `Django` • `React` • `AKS`
+> **Microservices Architecture.** A full-stack library system using HashiCorp Vault for secrets and deployed on Azure Kubernetes Service.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔶 [Docker & K8s Labs](https://github.com/VaibhavKumar2005/Docker-K8s-Repo)
-
-**Tech:** `K8s` • `NGINX` • `Docker`
-
-> **Container Orchestration.** Comprehensive experiments with Kubernetes deployments, legacy app containerization, and NGINX ingress controllers.
+### 🔶 [Azure Cloud Native RAG](https://github.com/VaibhavKumar2005/azure-cloud-native-rag)
+**Tech:** `Azure` • `Python` • `RAG`
+> **Applied AI.** Implementation of Retrieval-Augmented Generation focusing on scalable deployment and verifiable AI outputs.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 [AZ-104 Certification Labs](https://github.com/VaibhavKumar2005/VaibhavAZ104Labs)
-
-**Tech:** `Terraform` • `Azure`
-
-> **Infrastructure as Code (IaC).** Detailed documentation and lab implementations for Azure Administrator certification (VNETs, Identity, Storage).
+### 🔷 [Docker & K8s Labs](https://github.com/VaibhavKumar2005/Docker-K8s-Repo)
+**Tech:** `K8s` • `NGINX` • `Docker`
+> **Orchestration.** CI/CD pipelines with GitHub Actions to automate building and pushing Docker images to Docker Hub.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔶 [Data Visualization Hub](https://github.com/VaibhavKumar2005/DataVisualizationRepo)
-
-**Tech:** `Seaborn` • `Plotly`
-
-> **Data Science Analytics.** Advanced exploratory data analysis (EDA) using Python's leading visualization libraries.
+### 🔶 [Librarian RAG](https://github.com/VaibhavKumar2005)
+**Tech:** `Deep Learning` • `FastAPI`
+> **Advanced AI.** Retrieval-Augmented Generation system designed for efficient document querying and context retention.
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
-<br>
-
-<div align="center">
+---
 
 ## 📊 Performance Metrics
-
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/main/github-metrics.svg" alt="Engineering Metrics" />
 </div>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaibhavKumar2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=4776E6&title_color=8E54E9&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKumar2005&theme=tokyonight&border=4776E6&ring=8E54E9&fire=00D9FF&currStreakLabel=8E54E9"/>
-</p>
 
 <br>
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKumar2005&theme=tokyonight&border=4776E6&ring=8E54E9&fire=00D9FF&currStreakLabel=8E54E9"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavKumar2005&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
 
 ## 🎯 Current Orchestration
 
-</div>
-
-<div align="center">
-
 ```yaml
 🔨 building:
-  - Cloud-Native RAG Pipelines
-  - Django/Flask Microservices
+  - Cloud-Native AI Library (Microservices)
+  - Django/Flask Backend Engineering
 
 📚 learning:
-  - LLM Fine-Tuning (DeepSeek)
-  - Advanced Kubernetes Networking
+  - LLM Fine-Tuning (DeepSeek & RAG)
+  - Advanced Kubernetes Networking & Security
 
 🎓 certifying:
   - AZ-104: Azure Administrator
-  - HashiCorp Vault
-```
-
-</div>
-
-<br>
-
-<div align="center"> 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> 
-</div>
-
-<br>
-
+  - HashiCorp Vault Associate
 <div align="center">
 
-### 🐍 Contribution Activity
-</div>
+🐍 Contribution Activity
+<img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating my contributions"/> </p>
-
-<br>
-
-<div align="center">
-
-🌟 **"If it's not automated, it's not done right."**
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=120&section=footer"/>
+🌟 "If it's not automated, it's not done right." <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:4776E6,100:8E54E9%26height%3D100%26section%3Dfooter"/>
 
 </div>
+
+
+-----
+
+### 🛠️ Final DevOps Configuration
+
+To ensure the `github-metrics.svg` file is generated correctly and the error you saw doesn't repeat, use this exact workflow in your `.github/workflows/metrics.yml`:
+
+  * **Secret:** Ensure your token is named `METRICS_TOKEN` in the repository settings.
+  * **Permissions:** Your Personal Access Token (PAT) must have `repo` and `read:user` permissions.
+
+<!-- end list -->
+
+```yaml
+name: GitHub Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: VaibhavKumar2005
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
