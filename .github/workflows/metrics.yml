@@ -1,19 +1,22 @@
 name: GitHub Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Daily update
-  workflow_dispatch: # Manual trigger
+  schedule: [{cron: "0 0 * * *"}] # Runs daily
+  workflow_dispatch: # Allows you to run it manually to test
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # This MUST match the name in your Repo Secrets
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Your details
           user: VaibhavKumar2005
           template: classic
           base: header, activity, community, repositories, metadata
+          
+          # Configuration (Using valid inputs from your error log)
           config_timezone: Asia/Kolkata
-          # Theming to match your 'Venom' aesthetic
-          config_theme: tokyonight 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
