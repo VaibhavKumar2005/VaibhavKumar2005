@@ -1,30 +1,35 @@
-# Hi there! 👋
+---
+name: Vaibhav Kumar  
+role: Software Developer  
+certifications:
+  - title: Full Stack Development
+    issuing_organization: Developer Academy
+    date_issued: 2025-08-15
+    credential_id: FSD123456
+    credential_url: http://example.com/certification/FSD123456
+---
 
-Welcome to my profile! I'm **Vaibhav Kumar**, a passionate developer.
+# 👋 Hello! I am Vaibhav Kumar  
 
-## Skills
--  Python
-- JavaScript
-- C++
+## 🚀 About Me  
+I am a passionate software developer with expertise in various programming languages and frameworks. I enjoy creating innovative solutions that make a difference.
 
-```yaml
-projects:
-  - name: Project 1
-    description: A cool project
-    url: https://github.com/mycoolproject
-  - name: Project 2
-    description: Another cool project
-    url: https://github.com/myothercoolproject
-```
+## 💼 Skills  
+- JavaScript  
+- Python  
+- React  
+- Node.js  
 
-## Hobbies
-I love coding, gaming, and reading.
+## 📫 Contact  
+- Email: vaibhav@example.com  
+- LinkedIn: [Vaibhav Kumar](https://www.linkedin.com/in/vaibhavkumar2005)
 
-## Connect with me
-- [My LinkedIn](https://www.linkedin.com/in/vaibhavkumar)
-- [My Portfolio](https://vaibhavkumar.dev)
+---
 
-![Google Search](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)  
-<!-- This image tag is broken and removed -->
+## 🌈 Contribution Activity  
+![Contribution Activity](https://example.com/contribution_activity)
 
-Thank you for visiting my profile!
+![Capsule Render Footer](https://example.com/footer_image.png) 
+
+## 🌟 Let's Connect!  
+Feel free to reach out if you want to collaborate on exciting projects!
