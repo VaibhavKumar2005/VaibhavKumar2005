@@ -78,7 +78,7 @@
 ---
 
 ## 📊 Performance Metrics
-<div align="center">
+div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/main/github-metrics.svg" alt="Engineering Metrics" />
 </div>
 
@@ -91,7 +91,7 @@
 
 ---
 
-## 🎯 Current Orchestration
+## �� Current Orchestration
 
 ```yaml
 🔨 building:
@@ -114,6 +114,4 @@
 
 </div>
 
-
 -----
-
