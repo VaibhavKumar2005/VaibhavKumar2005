@@ -1,37 +1,25 @@
-name: GitHub Metrics
-
+name: Metrics
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-
-permissions:
-  contents: write
-
+  # (optional) Run on master/main push
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Metrics SVG
+      - name: 🦑 General
         uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
           user: VaibhavKumar2005
           template: classic
           base: header, activity, community, repositories, metadata
-          filename: github-metrics.svg
-
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add github-metrics.svg
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-          git commit -m "chore(metrics): update github-metrics.svg"
-          git push
+          config_timezone: Asia/Calcutta
