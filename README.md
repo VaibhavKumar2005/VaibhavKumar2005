@@ -59,7 +59,7 @@ My journey is focused on bridging the gap between **AI** and **Infrastructure**.
 <tr>
 <td width="100%" valign="top">
 
-### 🏆Cloud-Native Verified AI System
+### 🏆 VeriRag: Cloud-Native Verified AI System
 **Repo:** <a href="https://github.com/VaibhavKumar2005/VeriRag">VaibhavKumar2005/VeriRag</a>  
 **Tech:** <code>Azure AKS</code> • <code>Terraform</code> • <code>RAG Agent</code> • <code>Vault</code>  
 **The Flagship.** A production-ready AI system that solves LLM hallucinations. 
@@ -100,10 +100,16 @@ My journey is focused on bridging the gap between **AI** and **Infrastructure**.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKumar2005&amp;theme=tokyonight&amp;border=4776E6&amp;ring=8E54E9&amp;fire=00D9FF&amp;currStreakLabel=8E54E9" alt="streak"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavKumar2005&amp;theme=tokyo-night&amp;area=true&amp;hide_border=true" alt="graph"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/main/github-metrics.svg" alt="Metrics" width="100%"/>
+  
+  <br/>
+  
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKumar2005&amp;theme=tokyonight&amp;border=4776E6&amp;ring=8E54E9&amp;fire=00D9FF&amp;currStreakLabel=8E54E9" alt="streak"/>
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavKumar2005&amp;theme=tokyo-night&amp;area=true&amp;hide_border=true" alt="graph"/>
+  </p>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
