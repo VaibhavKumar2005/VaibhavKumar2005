@@ -136,4 +136,3 @@ certifying:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=120&section=footer" alt="footer"/>
 
 
-I feel I should make this readme file as a learner and a student rather than a company employee
