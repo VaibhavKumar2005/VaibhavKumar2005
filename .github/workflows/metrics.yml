@@ -25,11 +25,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           config_display: large
-          config_output: auto
           
-          # Plugin: Languages (Most stable)
+          # Plugin: Languages - Most stable and essential
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout: 60
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
@@ -42,28 +41,17 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           
-          # Plugin: Notable contributions (replaces problematic habits)
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
-          
-          # Plugin: Followup (better than activity)
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_followup_indepth: yes
-          
-          # Plugin: Achievements (with simplified settings)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-          
-          # Plugin: Isocalendar (contributions calendar)
+          # Plugin: Isocalendar - Visual contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Plugin: Stargazers
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: classic
+          # Plugin: Habits - Simplified coding habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: no
+          plugin_habits_charts: no
+          plugin_habits_trim: yes
           
           # Committer configuration
           committer_token: ${{ secrets.GITHUB_TOKEN }}
