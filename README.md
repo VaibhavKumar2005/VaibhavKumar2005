@@ -109,15 +109,15 @@ A comprehensive GitOps platform for managing cloud infrastructure with automated
 <div align="center">
 
 <!-- GitHub Metrics Graph -->
-<img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/main/github-metrics.svg?raw=true" alt="GitHub Metrics - Detailed activity and language statistics" width="100%"/>
 
 <br/><br/>
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake.svg?raw=true">
+  <img alt="GitHub contribution grid snake animation - Visual representation of GitHub contributions" src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake.svg?raw=true">
 </picture>
 
 <br/><br/>
