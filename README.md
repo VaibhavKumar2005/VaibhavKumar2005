@@ -35,7 +35,7 @@ name: Vaibhav Kumar
 role: CS Undergraduate @ GLA University (Class of '28)
 interests: ["Cloud Native Systems", "AI Engineering", "DevOps", "Automation"]
 learning_philosophy: "Building complex systems to understand how they break."
-current_focus: "Mastering Kubernetes & RAG Architectures"
+current_focus: "Mastering Kubernetes and RAG Architectures"
 ```
 
 Hi! I'm Vaibhav, a Computer Science student with a deep curiosity for AI infrastructure.  
@@ -52,12 +52,6 @@ I document my learning journey through **open-source labs and projects**, focusi
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaibhavKumar2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -89,10 +83,6 @@ I document my learning journey through **open-source labs and projects**, focusi
 - **Web Basics:** HTML, CSS, basic frontend integration
 
 </details>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-</div>
 
 ## 🚀 Projects & Labs
 
