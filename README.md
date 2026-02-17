@@ -1,200 +1,198 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:4776E6,100:8E54E9&height=220&section=header&text=Vaibhav%20Kumar&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=CS%20Student%20|%20Cloud%20Native%20%26%20AI%20Enthusiast&descAlignY=62&descAlign=50&descSize=18" />
+<!-- Dynamic Header with Capsule Render - Using &amp; for XML escaping -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=200&amp;section=header&amp;text=Vaibhav%20Kumar&amp;fontSize=80&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Cloud%20Native%20and%20AI%20Engineer&amp;descAlignY=55&amp;descAlign=50" alt="Header"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=667EEA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Exploring+DevOps%2C+AI+Systems%2C+and+Cloud;Building+Projects+for+Production+Engineering;Aspiring+MLOps+Engineer;CS+Student+at+GLA+University" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4776E6&center=true&vCenter=true&random=false&width=800&lines=Exploring+DevOps%2C+AI+Systems%2C+%26+Cloud;Building+Projects+to+Learn+Production+Engineering;Aspiring+MLOps+%26+Platform+Engineer)](https://git.io/typing-svg)
+### 🚀 CS Student | Cloud Native Enthusiast | AI Engineering Specialist
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.kumar_cs.aiml24@gla.ac.in)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<details open>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
 <br/>
 
-<a href="https://www.linkedin.com/in/vaibhav-kumar-sharma-2005/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4776E6" alt="LinkedIn Profile"/>
-</a>
-<a href="mailto:vaibhavkrsharma0412@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8E54E9" alt="Email Contact"/>
-</a>
-<a href="https://github.com/VaibhavKumar2005">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=39FF14" alt="GitHub Profile"/>
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=VaibhavKumar2005&label=Profile%20Views&color=4776E6&style=flat-square)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-</div>
-
-## 👋 About Me
-
-```yaml
-name: Vaibhav Kumar
-role: CS Undergraduate @ GLA University (Class of '28)
-interests: ["Cloud Native Systems", "AI Engineering", "DevOps", "Automation"]
-learning_philosophy: "Building complex systems to understand how they break."
-current_focus: "Mastering Kubernetes and RAG Architectures"
-```
-
-Hi! I'm Vaibhav, a Computer Science student with a deep curiosity for AI infrastructure.  
-I'm especially interested in the **operations side of AI**—how to deploy, scale, and verify LLM-based systems in production.
-
-I document my learning journey through **open-source labs and projects**, focusing on **cloud-native architectures, DevOps, and MLOps**.
-
-### 🎯 Current Journey
-
-- 🔭 **Building:** `VeriRag` – a microservices-based, verified AI system on Azure  
-- 🌱 **Learning:** Advanced Kubernetes networking, system design, and LLM evaluation  
-- 📜 **Certifying:** Preparing for **Azure Administrator (AZ-104)**  
-- 💡 **Goal:** Bridge the gap between **Software Engineering** and **MLOps / Platform Engineering**
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-</div>
-
-## 🧰 Tech Stack (Learning & Using)
-
-> Gradually expanding this section as I gain more hands‑on experience.
-
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-
-- **Cloud:** Azure (AKS, VM, Storage, Networking)
-- **IaC:** Terraform (Azure-focused)
-- **Containerization & Orchestration:** Docker, Kubernetes
-- **Security & Secrets:** HashiCorp Vault (learning), Azure Key Vault
-- **CI/CD:** GitHub Actions (experimenting with pipelines)
-- **Monitoring & Observability:** Exploring Prometheus, Grafana
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 </details>
 
-<details>
+<details open>
 <summary><b>💻 Languages & Frameworks</b></summary>
+<br/>
 
-- **Languages:** Python, C/C++, JavaScript (learning), Bash
-- **Backend:** Django / Flask (microservices experiments)
-- **AI / Data:** Python ecosystem (LLMs, RAG, agents – still in early phase)
-- **Web Basics:** HTML, CSS, basic frontend integration
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </details>
 
-## 🚀 Projects & Labs
+<details open>
+<summary><b>🔧 DevOps & Tools</b></summary>
+<br/>
 
-### 🏆 VeriRag – Cloud-Native Verified AI System
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-**Tech Stack:** Azure AKS · Terraform · RAG Agent · HashiCorp Vault · Python  
+</details>
 
-My **flagship learning project** to understand how to ship reliable AI to production.  
-The idea is to reduce LLM hallucinations using a **"Critic Agent"** that verifies answers against trusted sources.
+<details open>
+<summary><b>🤖 AI & ML</b></summary>
+<br/>
 
-**What I’m learning through it:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-- 🛠 **DevOps:** Automating Azure infrastructure with Terraform and deploying to Kubernetes  
-- 🧠 **AI Engineering:** Orchestrating multi-agent workflows and RAG pipelines  
-- 🔐 **Security:** Implementing zero-trust secrets management with HashiCorp Vault  
-
----
-
-### 🔷 Docker & K8s Labs
-
-**Tech:** Kubernetes · Docker · NGINX  
-
-A playground for learning **container orchestration** and **deployment patterns**.
-
-- Documenting simple **CI/CD pipelines**
-- Experimenting with **service mesh** concepts
-- Building and optimizing **custom Docker images**
+</details>
 
 ---
 
-### 🔶 AZ-104 Infrastructure
-
-**Tech:** Terraform · Azure · IaC  
-
-My **hands-on notes** for the Azure Administrator exam.
-
-- Practicing **Infrastructure as Code (IaC)** patterns
-- Working with **governance & policy** on Azure
-- Exploring **cloud networking setups** and security
+## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-</div>
 
-## 🌱 Learning Roadmap 2026
-
-<table width="100%">
+<table>
 <tr>
-<td width="33%" valign="top">
-<h3 align="center">🏗️ Building</h3>
-<ul>
-<li>✅ VeriRag (Cloud-Native RAG)</li>
-<li>🔄 Django/Flask Microservices</li>
-<li>📝 K8s Operator (planned)</li>
-</ul>
+<td width="50%">
+
+### 🔐 VeriRag
+**Cloud-Native Verified AI**
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VaibhavKumar2005/VeriRag)
+
+A production-ready RAG (Retrieval-Augmented Generation) system with verification capabilities, built with cloud-native principles.
+
+**Tech:** Python • Kubernetes • Azure • Vector DB
+
 </td>
-<td width="33%" valign="top">
-<h3 align="center">📚 Studying</h3>
-<ul>
-<li>🧠 LLM Fine-Tuning (e.g., DeepSeek & others)</li>
-<li>🔐 K8s Security & Networking</li>
-<li>⚙️ System Design Patterns</li>
-</ul>
-</td>
-<td width="33%" valign="top">
-<h3 align="center">📜 Certifying</h3>
-<ul>
-<li>🎯 AZ-104: Azure Administrator</li>
-<li>🔒 HashiCorp Vault (planned)</li>
-<li>☸️ CKA (future goal)</li>
-</ul>
+<td width="50%">
+
+### 🚀 Project Nexus
+**GitOps Platform**
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VaibhavKumar2005/project-nexus)
+
+A comprehensive GitOps platform for managing cloud infrastructure with automated deployments and monitoring.
+
+**Tech:** Terraform • ArgoCD • Kubernetes • Go
+
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 </div>
 
-## 🐍 Contribution Activity
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
+<!-- GitHub Metrics Graph -->
+<img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+
+<br/><br/>
+
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/><br/>
+
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaibhavKumar2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKumar2005&layout=compact&langs_count=8&theme=radical"/>
+
+<br/>
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKumar2005&theme=radical" alt="GitHub Streak"/>
+
 </div>
+
+---
+
+## 💼 What I'm Working On
+
+```yaml
+current_focus:
+  education: "CS Student at GLA University"
+  specialization: "Cloud Native and AI Engineering"
+  learning:
+    - Advanced Kubernetes Patterns
+    - MLOps and Model Deployment
+    - Distributed Systems Architecture
+  building:
+    - Production-grade AI Systems
+    - Cloud-Native Applications
+    - Infrastructure Automation Tools
+  goals:
+    - Master DevOps and Cloud Engineering
+    - Contribute to Open Source Projects
+    - Build Scalable AI Solutions
+```
+
+---
+
+## 🎯 Goals for 2026
+
+- 🏗️ Build and deploy 5 production-grade projects
+- 🌐 Contribute to major open-source cloud-native projects
+- 📚 Master advanced Kubernetes and service mesh technologies
+- 🤖 Deploy end-to-end MLOps pipelines
+- 📝 Write technical blogs on Cloud and AI Engineering
+- 🏆 Earn cloud certifications (Azure, AWS, or GCP)
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
 
-### 💭 Quote of the Day
+I'm always excited to collaborate on interesting projects or discuss cloud-native technologies and AI engineering!
 
-> "If it's not automated, it's not done right."
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.kumar_cs.aiml24@gla.ac.in)
 
 </div>
+
+---
 
 <div align="center">
 
-## 📫 Let’s Connect
+### 💭 Random Dev Quote
 
-I'm always open to connecting with fellow students, engineers, and builders to discuss **Cloud Architecture**, **AI Systems**, and **DevOps/MLOps**.
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://www.linkedin.com/in/vaibhav-kumar-sharma-2005/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4776E6" alt="LinkedIn"/>
-</a>
-<a href="mailto:vaibhavkrsharma0412@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8E54E9" alt="Email"/>
-</a>
+### 👀 Profile Views
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=VaibhavKumar2005.VaibhavKumar2005)
+
+<!-- Dynamic Footer with Capsule Render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=120&amp;section=footer" alt="Footer"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=120&section=footer" />
