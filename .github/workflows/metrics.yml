@@ -17,6 +17,10 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # ADD THESE TWO LINES TO SAVE THE FILE
+          filename: github-metrics.svg
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: VaibhavKumar2005
