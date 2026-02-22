@@ -1,14 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *"
-  
-  # Allow manual trigger
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  
-  # Run on every push to main branch
   push:
     branches:
       - main
@@ -19,32 +14,27 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
-      - name: Generate github-contribution-grid-snake.svg
+
+      - name: Generate contribution grid snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: VaibhavKumar2005
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Push snake animations to output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update snake animations"
+          keep_history: true
+          commit_message: "chore: update snake animations [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Verify output
-        run: |
-          echo "Snake animation generated successfully!"
-          echo "Check the 'output' branch for the generated files."
