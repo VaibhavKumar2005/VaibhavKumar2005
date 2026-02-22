@@ -19,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # FIX: This step creates the physical file the next action is looking for
+      # This step creates the JSON file dynamically to avoid the "ENOENT" (File Not Found) error
       - name: Create 3D Config File
         run: |
           echo '{
@@ -33,7 +33,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: VaibhavKumar2005
-          SETTING_JSON: profile-3d-config.json # Now points to a real file
+          SETTING_JSON: profile-3d-config.json # Points to the file created in the previous step
 
       - name: Push 3D graph to output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
