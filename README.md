@@ -161,7 +161,7 @@ A comprehensive **GitOps platform** for cloud infrastructure — automated deplo
 <br/><br/>
 
 <!-- 3D Contribution Calendar -->
-<img src="https://github.com/VaibhavKumar2005/VaibhavKumar2005/blob/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 
 <br/><br/>
 
