@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 18 * * *" # Runs daily at 18:00 UTC
   workflow_dispatch:
   push:
     branches:
@@ -19,17 +19,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # FIX: This step creates the physical file the next action is looking for
+      - name: Create 3D Config File
+        run: |
+          echo '{
+            "githubUserName": "VaibhavKumar2005",
+            "type": "NIGHT_RAINBOW",
+            "contributionColorArray": ["#1e1b4b", "#4c1d95", "#7c3aed", "#a855f7", "#d8b4fe"]
+          }' > profile-3d-config.json
+
       - name: Generate 3D contribution calendar
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: VaibhavKumar2005
-          SETTING_JSON: >
-            {
-              "githubUserName": "VaibhavKumar2005",
-              "type": "NIGHT_RAINBOW",
-              "contributionColorArray": ["#1e1b4b", "#4c1d95", "#7c3aed", "#a855f7", "#d8b4fe"]
-            }
+          SETTING_JSON: profile-3d-config.json # Now points to a real file
 
       - name: Push 3D graph to output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
