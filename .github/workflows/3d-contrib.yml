@@ -1,0 +1,42 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-3d-contrib:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: VaibhavKumar2005
+          SETTING_JSON: >
+            {
+              "githubUserName": "VaibhavKumar2005",
+              "type": "NIGHT_RAINBOW",
+              "contributionColorArray": ["#1e1b4b", "#4c1d95", "#7c3aed", "#a855f7", "#d8b4fe"]
+            }
+
+      - name: Push 3D graph to output branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+          keep_history: true
+          commit_message: "chore: update 3D contribution graph [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
