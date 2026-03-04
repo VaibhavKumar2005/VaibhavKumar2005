@@ -62,7 +62,11 @@ open_to:
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+
+**☁️ Cloud & Infrastructure**
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -70,7 +74,10 @@ open_to:
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### 💻 Languages & Frameworks
+</td>
+<td align="center" valign="top" width="50%">
+
+**💻 Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -78,7 +85,12 @@ open_to:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🔧 DevOps & Observability
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+
+**🔧 DevOps & Observability**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -86,13 +98,54 @@ open_to:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### 🤖 AI / ML & MLOps
+</td>
+<td align="center" valign="top" width="50%">
+
+**🤖 AI / ML & MLOps**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" valign="top">
+
+![SnowPro](https://img.shields.io/badge/SnowPro-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**SnowPro Certified**
+
+</td>
+<td align="center" valign="top">
+
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+**Azure AI Certified**
+
+</td>
+<td align="center" valign="top">
+
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+
+**Neo4j Certified**
+
+</td>
+</tr>
+</table>
 
 </div>
 
