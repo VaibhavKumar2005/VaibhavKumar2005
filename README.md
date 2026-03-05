@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavkumar2005)
 [![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.kumar_cs.aiml24@gla.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaibhavKumar2005)
 
@@ -193,7 +193,7 @@ A comprehensive **GitOps platform** for cloud infrastructure — automated deplo
 <div align="center">
 
 <!-- GitHub Metrics SVG (auto-generated via workflow) -->
-<img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/main/github-metrics.svg?t=${Date.now()}" alt="GitHub Metrics" width="100%"/>
+<img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 <br/><br/>
 
@@ -256,14 +256,11 @@ A comprehensive **GitOps platform** for cloud infrastructure — automated deplo
 
 <div align="center">
 
-> **Note:** If you don't see the visualizations above, try:
-> - Hard refreshing the page (Ctrl+Shift+R or Cmd+Shift+R)
-> - Clearing your browser cache
-> - Viewing in a different browser or incognito mode
-> - Waiting a few minutes for GitHub's CDN to update
+> **📝 Note:** Some visualizations (3D contribution graph, snake animation, and GitHub metrics) are generated automatically via GitHub Actions.
+> If images don't appear, please check back in a few minutes or visit the [Actions tab](https://github.com/VaibhavKumar2005/VaibhavKumar2005/actions).
+> You can also try hard refreshing the page (Ctrl+Shift+R or Cmd+Shift+R), clearing your browser cache, or viewing in a different browser.
 
 The statistics are automatically updated daily via GitHub Actions.
-Check the [Actions tab](https://github.com/VaibhavKumar2005/VaibhavKumar2005/actions) to verify workflows are running.
 
 </div>
 
@@ -275,7 +272,7 @@ Check the [Actions tab](https://github.com/VaibhavKumar2005/VaibhavKumar2005/act
 
 > 💡 *I'm open to internships, collaborations, and open-source contributions in Cloud Native, AI Engineering, and DevOps.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavkumar2005)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.kumar_cs.aiml24@gla.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaibhavKumar2005)
 
