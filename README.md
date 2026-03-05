@@ -193,23 +193,29 @@ A comprehensive **GitOps platform** for cloud infrastructure — automated deplo
 <div align="center">
 
 <!-- GitHub Metrics SVG (auto-generated via workflow) -->
-<img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<img src="https://raw.githubusercontent.com/VaibhavKumar2005/VaibhavKumar2005/main/github-metrics.svg?t=${Date.now()}" alt="GitHub Metrics" width="100%"/>
 
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=VaibhavKumar2005&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=VaibhavKumar2005&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+</a>
 
 <br/><br/>
 
 <!-- Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaibhavKumar2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKumar2005&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaibhavKumar2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKumar2005&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</a>
 
 <br/>
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=VaibhavKumar2005&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=VaibhavKumar2005&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
@@ -241,6 +247,23 @@ A comprehensive **GitOps platform** for cloud infrastructure — automated deplo
 | 🌐 Contribute to CNCF / major OSS projects | 🎯 Planned |
 | 📚 Master Kubernetes advanced patterns & Istio | 🔄 In Progress |
 | ✍️ Publish technical blogs on Cloud & AI | 🎯 Planned |
+
+</div>
+
+---
+
+## 🔧 Troubleshooting
+
+<div align="center">
+
+> **Note:** If you don't see the visualizations above, try:
+> - Hard refreshing the page (Ctrl+Shift+R or Cmd+Shift+R)
+> - Clearing your browser cache
+> - Viewing in a different browser or incognito mode
+> - Waiting a few minutes for GitHub's CDN to update
+
+The statistics are automatically updated daily via GitHub Actions.
+Check the [Actions tab](https://github.com/VaibhavKumar2005/VaibhavKumar2005/actions) to verify workflows are running.
 
 </div>
 
