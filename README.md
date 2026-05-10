@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:a855f7,100:764ba2&height=220&section=header&text=Vaibhav%20Kumar&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Native%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20DevOps&descAlignY=55&descAlign=50&descSize=18&descColor=d4b3ff" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:a855f7,100:764ba2&height=220&section=header&text=Vaibhav%20Kumar&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=50" alt="Header"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=☁️+Cloud+Native+%26+AI+Systems+Engineer;🚀+Building+Production-Grade+Infrastructure;🤖+MLOps+%7C+DevOps+%7C+Distributed+Systems;📍+CS+Student+%40+GLA+University%2C+India" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=☁️+Cloud+Native+%26+AI+Systems+Engineer;🚀+Building+Production-Grade+Solutions;🤖+MLOps+%26+Generative+AI+Specialist;📦+Kubernetes+%26+DevOps+Architect" alt="Typing Animation"/>
 </a>
 
 <br/>
@@ -46,8 +46,8 @@ currently:
     - MLOps pipelines & Model Serving at Scale
     - Distributed Systems Architecture
   building:
-    - Production-grade RAG systems (VeriRag)
-    - GitOps platforms with automated observability
+    - Production-grade Cloud-Native Microservices
+    - End-to-end MLOps pipelines
     - Infrastructure Automation Tooling
 
 open_to:
@@ -155,30 +155,116 @@ open_to:
 
 <div align="center">
 
+### 🏗️ Production-Grade Microservices & Cloud-Native
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 VeriRag
-**Cloud-Native Verified RAG System**
+### 🐳 Cloud-Native AI Library System
+**Full-Stack Secure RAG Microservices Architecture**
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/VaibhavKumar2005/VeriRag)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/VaibhavKumar2005/cloud-native-ai-library-system)
+[![Stars](https://img.shields.io/github/stars/VaibhavKumar2005/cloud-native-ai-library-system?style=flat&color=a855f7)](https://github.com/VaibhavKumar2005/cloud-native-ai-library-system)
 
-A production-ready **Retrieval-Augmented Generation** system with built-in output verification. Deployed on Kubernetes with full cloud-native observability.
+✅ Production-ready microservices with Docker & Kubernetes  
+✅ React frontend + Django backend + Vector Database  
+✅ Integrated security, logging, and monitoring  
+✅ Cloud-native deployment strategies  
 
-**Stack:** `Python` · `Kubernetes` · `Azure` · `Vector DB` · `LangChain`
+**Stack:** `Python` · `Django` · `React` · `Docker` · `Kubernetes` · `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 Project Nexus
-**GitOps Automation Platform**
+**GitOps Automation & Infrastructure as Code Platform**
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/VaibhavKumar2005/project-nexus)
+[![Stars](https://img.shields.io/github/stars/VaibhavKumar2005/project-nexus?style=flat&color=a855f7)](https://github.com/VaibhavKumar2005/project-nexus)
 
-A comprehensive **GitOps platform** for cloud infrastructure — automated deployments, monitoring dashboards, and infra-as-code pipelines end-to-end.
+✅ Complete GitOps automation platform  
+✅ ArgoCD-powered continuous deployments  
+✅ Terraform infrastructure provisioning  
+✅ Grafana dashboards & Prometheus monitoring  
 
-**Stack:** `Terraform` · `ArgoCD` · `Kubernetes` · `Go` · `Grafana`
+**Stack:** `Terraform` · `ArgoCD` · `Kubernetes` · `Go` · `Grafana` · `Prometheus`
+
+</td>
+</tr>
+</table>
+
+### 🤖 AI/ML & Computer Vision
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📹 CCTV_YOLO
+**Real-Time Object Detection with High-Resolution Output**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/VaibhavKumar2005/CCTV_YOLO)
+[![Stars](https://img.shields.io/github/stars/VaibhavKumar2005/CCTV_YOLO?style=flat&color=a855f7)](https://github.com/VaibhavKumar2005/CCTV_YOLO)
+
+✅ Advanced object detection and tracking  
+✅ Real-time CCTV stream processing  
+✅ 🐦 Twitter trending project  
+✅ High-performance inference optimization  
+
+**Stack:** `YOLOv8` · `Python` · `OpenCV` · `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 MLOps Projects
+**End-to-End ML Pipeline Orchestration & Model Management**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/VaibhavKumar2005/MLOps-Projects)
+[![Stars](https://img.shields.io/github/stars/VaibhavKumar2005/MLOps-Projects?style=flat&color=a855f7)](https://github.com/VaibhavKumar2005/MLOps-Projects)
+
+✅ Complete ML lifecycle management  
+✅ Experiment tracking & model versioning  
+✅ Automated training pipelines  
+✅ Model deployment & monitoring strategies  
+
+**Stack:** `Python` · `MLflow` · `DVC` · `Kubernetes` · `Docker`
+
+</td>
+</tr>
+</table>
+
+### 📚 Educational Resources
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 bRAG-langchain
+**Everything You Need to Build RAG Applications**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/VaibhavKumar2005/bRAG-langchain)
+
+📚 Comprehensive RAG development guide  
+🎯 LangChain best practices & patterns  
+🔧 Vector DB integration tutorials  
+📊 Real-world RAG implementation examples  
+
+**Stack:** `Python` · `LangChain` · `Jupyter` · `Vector Databases`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Azure-Sentinel
+**Cloud-Native SIEM for Enterprise Security Analytics**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/VaibhavKumar2005/Azure-Sentinel)
+
+🔐 Enterprise security intelligence  
+📊 Real-time threat detection & response  
+☁️ Azure cloud-native architecture  
+⚙️ Automated incident management  
+
+**Stack:** `Azure` · `Sentinel` · `KQL` · `Security Analytics`
 
 </td>
 </tr>
